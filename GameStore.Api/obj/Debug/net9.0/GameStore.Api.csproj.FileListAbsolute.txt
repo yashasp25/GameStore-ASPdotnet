@@ -26,3 +26,4 @@ F:\Dream\ASPdotnet\GameStore.Api\obj\Debug\net9.0\refint\GameStore.Api.dll
 F:\Dream\ASPdotnet\GameStore.Api\obj\Debug\net9.0\GameStore.Api.pdb
 F:\Dream\ASPdotnet\GameStore.Api\obj\Debug\net9.0\GameStore.Api.genruntimeconfig.cache
 F:\Dream\ASPdotnet\GameStore.Api\obj\Debug\net9.0\ref\GameStore.Api.dll
+f:\Dream\ASPdotnet\GameStore.Api\obj\Debug\net9.0\GameStore.Api.sourcelink.json
